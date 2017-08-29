@@ -1,0 +1,20 @@
+
+isoft:
+  wechat:
+    corporation:
+      corp-id: wxdc2be60e691f9656
+      corp-token: jjWD3AQn5d3SAxNnOkRYahP9bG4WY9E
+      corp-key: k3HAbp5pccOMsRcKDvlpEDtHhFkYqL2yyIWkq8qc69r
+      apps:
+        - name: 企业小助手
+          agent-id: 0
+          secret: QbwYtAJ0dMfukTTDfBIQ1Xnd92lNZ4zwH-42jCbIYFQ
+        - name: 测试
+          agent-id: 1000002
+          secret: 48Awdv3Zz-OMWEY_4iXVaMprCGqZkZ29w_Tea4QkuzY
+        - name: 打卡
+          agent-id: 3010011
+          secret: VPXIfAnEvwqBQeahXhT_iXxIygg-1G-2X8iqVUCa4-I
+      address-book-secret: rSuMhJisW9GmqGMM1ONUho_YK1Jcys7ay8Jd9ji-WqA
+server:
+  port: 9001
